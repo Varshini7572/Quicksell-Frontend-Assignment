@@ -14,18 +14,13 @@ An interactive Kanban board application built with React that interacts with the
 - **Interactive UI**: Manage tasks with an interactive interface.
 
 ## Getting Started
+1. npm install
+2. npm start
+3. build the app using: npm run build(this creates a build folder ready to deploy)
+4. Go to Netlify and deploy manually.
+5. Drag and drop /build folder into the upload area.
+6. Netlify will automatically deploy the site after the upload.
 
-1. Clone the repository:
-   ```shell
-   git clone https://github.com/vishal-86953/QuickSell_Frontend_Assignment.git
- 
-2. Install dependencies:
-    ```shell
-    cd QuickSell_Frontend_Assignment
-    npm install
-3. Starting the development server:
-    ```shell
-        npm start
 ## Usage
 - Click the "Display" button to open the display options.
 - Select a grouping option (Status, User, Priority) and an ordering option (Priority, Title).
