@@ -13,6 +13,9 @@ An interactive Kanban board application built with React that interacts with the
 - **Ordering Options**: Order tasks by Priority or Title.
 - **Interactive UI**: Manage tasks with an interactive interface.
 
+##
+Project Live on [Task](https://varshini-quicksell-fe-task.netlify.app/)
+
 ## Getting Started
 1. npm install
 2. npm start
