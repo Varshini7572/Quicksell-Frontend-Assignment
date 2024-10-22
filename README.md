@@ -14,7 +14,7 @@ An interactive Kanban board application built with React that interacts with the
 - **Interactive UI**: Manage tasks with an interactive interface.
 
 ##
-Project Live on [Task](https://varshini-quicksell-fe-task.netlify.app/)
+Project Live on [Task](https://varshini-quicksell-fe-react.netlify.app/)
 
 ## Getting Started
 1. npm install
